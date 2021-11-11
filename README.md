@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandruionel
 - 👀 I’m interested in machine learning, artificial inteligence, web development, software engineering.
 - 🌱 I’m currently learning Python. Also, I have basic knowledge of C++, SQL, JavaScript and CSS.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any kind of project.
 - 📫 How to reach me alex.ionel.n@gmail.com
 
 <!---
